@@ -1,0 +1,13 @@
+name = "[Let's Do] Candlelight - Farm&Charm compat"
+filename = "letsdo-candlelight-fabric-2.0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwbArkQk/versions/c8fUg50I/letsdo-candlelight-fabric-2.0.3.1.jar"
+hash-format = "sha512"
+hash = "85fa5d5c67c162419bf8e94e093a5ad288b381997fcf87a16d22aebc751576d0cf7c4415d18bb318f09fe88f7aae69fdc61e47d4dd505c1c76386601dea3b6d4"
+
+[update]
+[update.modrinth]
+mod-id = "qwbArkQk"
+version = "c8fUg50I"

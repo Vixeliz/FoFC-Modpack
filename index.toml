@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-metalwork.pw.toml"
-hash = "1450dbde9f1edd0babec78b2240c0ade0e2971beddd58a7a9c1a5605637a4b89"
+hash = "fefe25a16233137e2b65720a2e212bf77ebba98ee77d211ac5ed20cf08973dc2"
 metafile = true
 
 [[files]]
@@ -333,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "fa6935e99f3c17a994cdd7413ef2da347a85f7a2eca05d42ab2b168ebfe1473d"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "0f22c222a062edebd3cfbd2f75feeb2d1cbec07e535ae5c72263a4a54ff6b924"
 metafile = true
 
 [[files]]
