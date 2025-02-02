@@ -1,0 +1,13 @@
+name = "Create: Cobblemon Industrialized"
+filename = "Create-Cobblemon-Fabric-v0.5.02HOTFIX.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tOucrGJ4/versions/oJGD2grk/Create-Cobblemon-Fabric-v0.5.02HOTFIX.jar"
+hash-format = "sha512"
+hash = "d5194b7fe05267e64ac4e8ccb463b168cf1f48d7cd08fe96ace0c0d13444300acdb3c52ab19c24e26b15ff18e03e104c46b664ac09ce387e8e62acfa0def79aa"
+
+[update]
+[update.modrinth]
+mod-id = "tOucrGJ4"
+version = "oJGD2grk"

@@ -1,0 +1,13 @@
+name = "Vegan Mob Drops"
+filename = "vegan-mob-drops-4.5.2-fix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZrQkwH6G/versions/kYjDQYJt/vegan-mob-drops-4.5.2-fix.jar"
+hash-format = "sha512"
+hash = "d250c8fdd2ffb6799c024315428ad43d1214589f82d949b08750c9839091eb5e74193c7970de1923d0e37b4d9f02fcc473cebfecc72308a044cd7ab043fa498f"
+
+[update]
+[update.modrinth]
+mod-id = "ZrQkwH6G"
+version = "kYjDQYJt"

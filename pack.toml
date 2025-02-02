@@ -1,0 +1,13 @@
+name = "FoFC"
+author = "Zebee"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "658f3d68778383a16082e1dcf0c1db5770f0712be1e0d9c4f2e9eea0a17214e4"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Create: Peaceful [Forge/Fabric]"
+filename = "create_peaceful-1.5.0-fabric-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9mmhz018/versions/91q5PrgW/create_peaceful-1.5.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "1e3086a02618af4a2160c7ea76f6269e3c3ccfd59d4bfbecb19177f86e5555e4218c01d77a8e46484ae39b2120c83a4515910cc467469fdf484aca561030b579"
+
+[update]
+[update.modrinth]
+mod-id = "9mmhz018"
+version = "91q5PrgW"
