@@ -1,12 +1,12 @@
 name = "FoFC"
 author = "Zebee"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b4f54de046d3008f86266c4ab71cd5110108c5e3d356d93e983b3ac69ce08d62"
+hash = "3e5cfafb50950e0df10ba98b096c2c0146f0690062eee81496b5b02c0183b5b9"
 
 [versions]
 fabric = "0.16.10"
